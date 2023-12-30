@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="telegram_hover" data-name="telegram hover" transform="translate(9 9)">
+    <g id="telegram">
+      <rect id="background" width="30" height="30" rx="5" transform="translate(0 0)" fill="#1c8adb"/>
+      <rect id="background-2" data-name="background" width="30" height="30" rx="5" transform="translate(0 0)" fill="#1c8adb"/>
+      <path id="icon" d="M50.553,45.225l-.31.113L33.405,51.4a.564.564,0,0,0,.049,1.091l4.359,1.193.813,2.386.813,2.386a.774.774,0,0,0,1.248.278l2.252-2.127,4.422,3a.944.944,0,0,0,1.449-.511L51.738,46.16A.864.864,0,0,0,50.553,45.225ZM48.4,48.1,40.8,54.316l-.358.293a.387.387,0,0,0-.143.252l-.08.661L40,57.381a.086.086,0,0,1-.17.014l-.619-1.856-.639-1.9a.385.385,0,0,1,.184-.455l7.916-4.538,1.49-.852C48.373,47.666,48.595,47.941,48.4,48.1Z" transform="translate(-27.381 -37.47)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
